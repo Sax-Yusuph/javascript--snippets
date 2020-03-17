@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Dosis|Fredoka+One|Gelasio|Kulim+Park|Lato|Poiret+One|Roboto|Roboto+Condensed|Varela+Round&display=swap');
+
+
+
+
+body {
+    background : #065153;
+    /* margin-top: 70px; */
+    /* font-family: 'nunito', cursive; */
+}
+
+.bg-custom2{
+    background-color:  #034346;;
+}
